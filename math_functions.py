@@ -14,5 +14,5 @@ def banafshedivide(a,b):
 def multiMarco(a,b):
   return a**b
 
-if __name__ == '__main__':
-  a = sum(banafshedivide(multiMarco(3,4),6),10))
+#if __name__ == '__main__':
+#  a = sum(banafshedivide(multiMarco(3,4),6),10))
